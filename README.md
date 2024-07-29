@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome%20to%20Ranah%27s%20GitHub!%F0%9F%90%BB&fontSize=55)
 
 <!--
 **ranahwhang/ranahwhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img src="">
+https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
 
+https://github.com/rzashakeri/beautify-github-profile?tab=readme-ov-file#-the-first-step--set-up-the-github-repository
+
+<img src="">
+https://github.com/ziadOUA/m3-Markdown-Badges
+
+https://github.com/anmol098/waka-readme-stats
 -->
-
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws3.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg">
-<img src="">
-<img src="">
