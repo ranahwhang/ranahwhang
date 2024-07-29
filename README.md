@@ -13,4 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<img src="">
+
 -->
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Oracle/oracle2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg">
+<img src="">
+<img src="">
